@@ -15,7 +15,7 @@ Zindi is Africa's premier data science competition platform. These challenges us
 | [Project 1](./project-1) | Financial Inclusion in Africa| Pandas, Supervised ML, Model evaluation metrics |
 | [Project 2](./project-2) | Loan Default Prediction classification | Feature engineering, Data Wrangling, Data Visulaization |
 | [Project 3](./project-3) | Tanzania Tourism Prediction Challenge | Data cleaning , EDA, Feature Encoding|
-| [Project 4](./project-4) | To Vaccinate or Not to Vaccinate | Text Vectorization Techniques |
+| [Project 4](./project-4) | To Vaccinate or Not to Vaccinate | Text Vectorization Techniques,NLP |
 | [Project 5](./project-5) | Urban Air Pollution Prediction | Unsupervised Learning |
 | [Project 6](./project-6) |Urban Air Pollution Prediction| Neural Networks |
 | [Project 7](./project-7) | Swahili News Classification | Prompt engineering |
