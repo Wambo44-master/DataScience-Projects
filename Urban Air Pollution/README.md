@@ -18,4 +18,4 @@ Predict PM2.5 concentration levels for different cities using unsupervised learn
 - Missing values either need to be dropped or filled using 0, mean or median depending on the type of data
 
 ## 📂 Files
-- `Urban_Pollution_unsupervised_learning.ipynb` - Full solution code
+- `Urban_Pollution_Air_unsupervised_learning.ipynb` - Full solution code
