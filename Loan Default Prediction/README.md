@@ -1,7 +1,7 @@
 # Loan Default Prediction
 
 ## 🎯 Problem
-A comapny wants datascientists to build robust models to effectively predict the odds of repayment.
+A company wants data scientists to build robust models to effectively predict the odds of repayment.
 ## 📊 Dataset
 - Size: 4368 rows, 10 columns
 - Target:  EDA, handle missing data, data wrangling, data visualization
